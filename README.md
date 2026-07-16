@@ -75,7 +75,7 @@ A website performance analysis platform that evaluates page speed, SEO, accessib
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://YOUR-VERCEL-URL.vercel.app
+- 🌐 Portfolio: https://tharun-portfolio-nine.vercel.app/
 - 📧 Email: kothintitharun@gmail.com
 
 ---
