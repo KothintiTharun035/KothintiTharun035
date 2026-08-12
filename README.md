@@ -56,6 +56,7 @@ An AI-powered civic issue management platform with AI-based issue classification
 An AI-powered Personal Finance Management platform that helps users track expenses, analyze investments, calculate loans, plan financial goals, and receive AI-driven financial insights.
 
 **Tech Stack:** Spring Boot, React.js, MongoDB, JWT, Gemini AI
+
 ---
 
 ## 🎨 Portfolio Builder
