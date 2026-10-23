@@ -20,10 +20,10 @@ I'm a Computer Science and Engineering graduate from Sreenidhi Institute of Scie
 | [**Customer Churn Prediction + Explainable GenAI**](https://github.com/KothintiTharun035/Churn-genAI-project) | Predicts customer churn and combines SHAP explanations with retrieval-augmented generation for contextual retention insights. | Python · Scikit-learn · SHAP · RAG · Gemini API |
 | [**AI GitHub Issue Triager**](https://github.com/KothintiTharun035) | Uses Gemini to classify issue severity, summarize issues, recommend labels, and integrate with GitHub workflows. | Python · Gemini API · GitHub REST API · GitHub Actions |
 | [**CivicMind AI**](https://github.com/KothintiTharun035/CivicMind-AI) | AI-powered civic issue management platform with role-based access, complaint tracking, and administrative analytics. | Java · Spring Boot · React · MongoDB · Gemini API |
-| **Personal Finance AI Analyzer** | Personal finance application for expense tracking, financial insights, budgeting, and investment analysis. | React · Spring Boot · MongoDB · Gemini API |
-| **Portfolio Builder** | Full-stack application for creating and publishing customizable portfolio websites. | MongoDB · Express.js · React · Node.js |
-| **Employee Management System** | Employee management application with authentication, employee records, and administrative functionality. | Java · Spring Boot · React · MySQL |
-| **SiteWell — Website Performance Analyzer** | Web application for analyzing website performance and identifying SEO, accessibility, and optimization opportunities. | React · Vite · Node.js · Express.js |
+| [**Personal Finance AI Analyzer**](https://github.com/KothintiTharun035/Personal-Finance-AI-Analyzer) | Personal finance application for expense tracking, financial insights, budgeting, and investment analysis. | React · Spring Boot · MongoDB · Gemini API |
+| [**Portfolio Builder**](https://github.com/KothintiTharun035/Portfolio-Builder) | Full-stack application for creating and publishing customizable portfolio websites. | MongoDB · Express.js · React · Node.js |
+| [**Employee Management System**](https://github.com/KothintiTharun035/employee-management-system) | Employee management application with authentication, employee records, and administrative functionality. | Java · Spring Boot · React · MySQL |
+| [**SiteWell — Website Performance Analyzer**](https://github.com/KothintiTharun035/SiteWell) | Web application for analyzing website performance and identifying SEO, accessibility, and optimization opportunities. | React · Vite · Node.js · Express.js |
 
 *For the projects without a linked repository, add the correct repository URL before publishing this README. Include only projects that you have actually implemented.*
 
