@@ -1,234 +1,76 @@
-# 👋 Hi, I'm Kothinti Tharun
+# Kothinti Tharun
 
-### Full-Stack Developer | AI/ML Enthusiast | Computer Science Engineering Graduate
+**Full-Stack Developer · AI/ML & Generative AI · Python · Java · React**
 
-Welcome to my GitHub profile! I'm a Computer Science Engineering graduate passionate about building full-stack applications, AI-powered solutions, and practical software that solves real-world problems.
-
-🌐 **Portfolio:** [tharun-portfolio-nine.vercel.app](https://tharun-portfolio-nine.vercel.app/)
+[Portfolio](https://tharun-portfolio-nine.vercel.app/) · [GitHub](https://github.com/KothintiTharun035) · [Email](mailto:kothintitharun@gmail.com)
 
 ---
 
-## 🚀 About Me
+I build **full-stack web applications and AI-powered solutions** that combine practical software engineering with machine learning and generative AI.
 
-- 🎓 Computer Science Engineering graduate.
-- 💻 Interested in Full-Stack Development, Artificial Intelligence, Machine Learning, and Generative AI.
-- 🧠 Building applications using React.js, Spring Boot, Python, and AI APIs.
-- 🔐 Interested in secure authentication, REST APIs, role-based access control, and scalable application design.
-- 🏆 Runner-up among 80 teams at the Hash it Out Hackathon organized by SDC at SNIST.
-- 📚 Continuously learning and developing practical projects.
+I'm a Computer Science and Engineering graduate from Sreenidhi Institute of Science and Technology, interested in developing scalable applications, integrating AI into real-world workflows, and building software that solves practical problems.
 
 ---
 
-## 🛠️ Technical Skills
+## Selected Projects
 
-**Programming Languages**
+| Project | What it does | Stack |
+|---|---|---|
+| [**AI-Powered Chest X-ray Classification**](https://github.com/KothintiTharun035/ai-powered-chest-xray-classification) | Classifies chest X-ray images into dataset categories using deep learning, compares a baseline CNN with transfer learning, and provides Grad-CAM visualizations. | Python · TensorFlow · Keras · MobileNetV2 · Grad-CAM · Streamlit |
+| [**Customer Churn Prediction + Explainable GenAI**](https://github.com/KothintiTharun035/Churn-genAI-project) | Predicts customer churn and combines SHAP explanations with retrieval-augmented generation for contextual retention insights. | Python · Scikit-learn · SHAP · RAG · Gemini API |
+| [**AI GitHub Issue Triager**](https://github.com/KothintiTharun035) | Uses Gemini to classify issue severity, summarize issues, recommend labels, and integrate with GitHub workflows. | Python · Gemini API · GitHub REST API · GitHub Actions |
+| [**CivicMind AI**](https://github.com/KothintiTharun035/CivicMind-AI) | AI-powered civic issue management platform with role-based access, complaint tracking, and administrative analytics. | Java · Spring Boot · React · MongoDB · Gemini API |
+| **Personal Finance AI Analyzer** | Personal finance application for expense tracking, financial insights, budgeting, and investment analysis. | React · Spring Boot · MongoDB · Gemini API |
+| **Portfolio Builder** | Full-stack application for creating and publishing customizable portfolio websites. | MongoDB · Express.js · React · Node.js |
+| **Employee Management System** | Employee management application with authentication, employee records, and administrative functionality. | Java · Spring Boot · React · MySQL |
+| **SiteWell — Website Performance Analyzer** | Web application for analyzing website performance and identifying SEO, accessibility, and optimization opportunities. | React · Vite · Node.js · Express.js |
 
-Java · JavaScript · Python · SQL · HTML5 · CSS3
-
-**Frontend Development**
-
-React.js · Vite · Tailwind CSS · Ant Design
-
-**Backend Development**
-
-Spring Boot · Spring Security · Node.js · Express.js · REST APIs · JWT Authentication
-
-**Databases**
-
-MongoDB · MongoDB Atlas · MySQL
-
-**AI, Machine Learning & Data Science**
-
-TensorFlow · Scikit-learn · Pandas · NumPy · MobileNetV2 · Grad-CAM · Explainable AI · Generative AI · Google Gemini API
-
-**Tools & Platforms**
-
-Git · GitHub · VS Code · Postman · Maven · Docker · Vercel · Render · Streamlit
+*For the projects without a linked repository, add the correct repository URL before publishing this README. Include only projects that you have actually implemented.*
 
 ---
 
-# 🌟 Featured Projects
+## AI & Machine Learning
 
-## 🩻 1. AI-Powered Chest X-ray Classification
+My AI/ML work focuses on building and evaluating practical machine learning applications.
 
-An educational deep learning application that classifies chest X-ray images into NORMAL and PNEUMONIA dataset classes. Integrates transfer learning, explainable AI, and generative AI in an interactive web application.
+- **Deep Learning:** TensorFlow, Keras, CNNs, MobileNetV2, transfer learning
+- **Explainable AI:** SHAP, Grad-CAM, model interpretation
+- **Machine Learning:** Scikit-learn, classification, model evaluation
+- **Generative AI:** Google Gemini API, retrieval-augmented generation (RAG)
+- **Data Analysis:** Python, Pandas, NumPy
 
-**Key Features**
-- Image classification using MobileNetV2.
-- Baseline CNN versus transfer-learning model comparison.
-- Evaluation using accuracy, precision, recall, F1-score, and confusion matrices.
-- Grad-CAM heatmap visualization.
-- Gemini-generated educational explanations.
-- Interactive Streamlit interface and downloadable reports.
-
-**Tech Stack:** Python · TensorFlow · Keras · MobileNetV2 · Grad-CAM · Scikit-learn · Streamlit · Google Gemini API
-
-**Reported test accuracy:** 88.62% for MobileNetV2 and 75.64% for the baseline CNN on the project's held-out test dataset.
-
-> Educational and research use only. This project is not a clinically validated diagnostic system.
-
-**Repository:** [AI-Powered Chest X-ray Classification](https://github.com/KothintiTharun035/ai-powered-chest-xray-classification)
+**Chest X-ray classification results:** MobileNetV2 achieved 88.62% test accuracy, compared with 75.64% for the baseline CNN on the project's held-out test dataset. This is an educational project, not a clinically validated diagnostic system.
 
 ---
 
-## 🏛️ 2. CivicMind AI
+## Full-Stack Development
 
-An AI-powered civic issue management platform designed to help citizens report civic problems and enable officials to track and manage complaints.
+I develop frontend and backend components, connect them through REST APIs, and integrate databases and AI services.
 
-**Key Features**
-- Citizen, Official, and Admin roles.
-- JWT authentication and role-based access control.
-- AI-powered civic issue classification using Google Gemini.
-- Complaint lifecycle tracking.
-- Administrative dashboards and operational analytics.
-- RESTful APIs for application functionality.
-
-**Tech Stack:** Spring Boot · React.js · MongoDB Atlas · Spring Security · JWT · Google Gemini API · Tailwind CSS · Recharts
-
-**Repository:** [CivicMind AI](https://github.com/KothintiTharun035/CivicMind-AI)
+- **Frontend:** React.js, JavaScript, Vite, Tailwind CSS, Ant Design
+- **Backend:** Java, Spring Boot, Spring Security, Node.js, Express.js
+- **APIs & Security:** REST APIs, JWT authentication, role-based access control
+- **Databases:** MongoDB, MongoDB Atlas, MySQL
+- **Tools:** Git, GitHub, Postman, Maven, Docker, Streamlit, Vercel, Render
 
 ---
 
-## 💰 3. Personal Finance AI Analyzer
+## Education & Achievement
 
-An AI-powered personal finance management platform designed to help users understand their spending, organize finances, and explore financial planning insights.
+**B.Tech in Computer Science and Engineering**  
+Sreenidhi Institute of Science and Technology · 2026  
+CGPA: 7.02/10
 
-**Key Features**
-- Expense and financial data tracking.
-- Investment and loan analysis features.
-- Financial goal planning.
-- AI-powered financial insights.
-- Interactive financial dashboards.
-
-**Tech Stack:** React.js · Spring Boot · MongoDB · JWT · Google Gemini API
+**Hash it Out Hackathon — Runner-up**  
+Secured runner-up position among 80 teams at the hackathon organized by SDC at SNIST.
 
 ---
 
-## 🎨 4. Portfolio Builder
+## Connect
 
-A full-stack MERN application that helps users create and publish professional portfolio websites.
+- **Portfolio:** [tharun-portfolio-nine.vercel.app](https://tharun-portfolio-nine.vercel.app/)
+- **GitHub:** [KothintiTharun035](https://github.com/KothintiTharun035)
+- **Email:** [kothintitharun@gmail.com](mailto:kothintitharun@gmail.com)
 
-**Key Features**
-- Portfolio creation and customization.
-- Responsive web interface.
-- Full-stack application architecture.
-- Portfolio deployment support.
+I'm interested in opportunities across full-stack development, Python development, AI/ML, and Generative AI.
 
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js
-
-**Live Portfolio Builder:** [Open Project](https://tharun-portfolio-nine.vercel.app/)
-
----
-
-## 👨‍💼 5. Employee Management System
-
-A full-stack employee management application for organizing employee information and providing administrative functionality.
-
-**Key Features**
-- Employee record management.
-- JWT-based authentication.
-- Role-based access control.
-- Attendance tracking.
-- Dashboard analytics.
-
-**Tech Stack:** Spring Boot · React.js · MySQL · JWT · REST APIs
-
----
-
-## 🌐 6. SiteWell — Website Performance Analyzer
-
-A web-based tool designed to help evaluate website performance and identify opportunities for website optimization.
-
-**Key Features**
-- Website performance analysis.
-- SEO checks.
-- Accessibility analysis.
-- Best-practice checks.
-- Optimization insights.
-
-**Tech Stack:** React.js · Vite · Node.js · Express.js
-
----
-
-## 🤖 7. Customer Churn Prediction with Explainable GenAI
-
-A machine learning project focused on predicting customer churn and explaining model outputs using explainable AI techniques and generative AI.
-
-**Key Features**
-- Customer churn prediction.
-- Data preprocessing and model evaluation.
-- Feature-importance analysis using SHAP.
-- Retrieval-augmented generation (RAG) concepts for contextual explanations.
-- Gemini-generated educational insights.
-
-**Tech Stack:** Python · Jupyter Notebook · Pandas · NumPy · Scikit-learn · SHAP · RAG · Google Gemini API
-
----
-
-## 📊 8. Demand Forecasting with GenAI Business Analyst
-
-A data science project concept that combines demand forecasting with generative AI to help explain trends and communicate business insights.
-
-**Key Features**
-- Historical demand data analysis.
-- Forecasting and trend analysis.
-- Business-oriented summaries.
-- Generative AI explanations of analytical results.
-
-**Tech Stack:** Python · Jupyter Notebook · Pandas · NumPy · Forecasting · Generative AI
-
----
-
-## 🛡️ 9. Credit Card Fraud Detection
-
-A machine learning project focused on identifying potentially fraudulent credit card transactions using transaction data and classification techniques.
-
-**Key Features**
-- Transaction data preprocessing.
-- Fraud classification.
-- Model evaluation.
-- Analysis of class imbalance and classification errors.
-
-**Tech Stack:** Python · TensorFlow · Machine Learning · Data Analysis
-
----
-
-## 🐦 10. Disaster Tweet Analysis
-
-A natural language processing project focused on analyzing tweets to identify messages that may refer to real-world disasters.
-
-**Key Features**
-- Text preprocessing.
-- Text classification.
-- Feature extraction.
-- Model evaluation.
-
-**Tech Stack:** Python · Machine Learning · Natural Language Processing · Data Analysis
-
----
-
-## 🏆 Achievements
-
-- 🥈 Runner-up among 80 teams at the Hash it Out Hackathon organized by SDC at SNIST.
-- 🚀 Built full-stack applications integrating frontend, backend, databases, and AI APIs.
-- 🧠 Developed projects involving transfer learning, explainable AI, and generative AI.
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KothintiTharun035&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KothintiTharun035&layout=compact&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-- 🌐 **Portfolio:** [tharun-portfolio-nine.vercel.app](https://tharun-portfolio-nine.vercel.app/)
-- 💻 **GitHub:** [KothintiTharun035](https://github.com/KothintiTharun035)
-- 📧 **Email:** [kothintitharun@gmail.com](mailto:kothintitharun@gmail.com)
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
