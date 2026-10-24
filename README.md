@@ -25,8 +25,6 @@ I'm a Computer Science and Engineering graduate from Sreenidhi Institute of Scie
 | [**Employee Management System**](https://github.com/KothintiTharun035/employee-management-system) | Employee management application with authentication, employee records, and administrative functionality. | Java · Spring Boot · React · MySQL |
 | [**SiteWell — Website Performance Analyzer**](https://github.com/KothintiTharun035/SiteWell) | Web application for analyzing website performance and identifying SEO, accessibility, and optimization opportunities. | React · Vite · Node.js · Express.js |
 
-*For the projects without a linked repository, add the correct repository URL before publishing this README. Include only projects that you have actually implemented.*
-
 ---
 
 ## AI & Machine Learning
