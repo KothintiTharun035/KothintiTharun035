@@ -24,7 +24,7 @@ I'm a Computer Science and Engineering graduate from Sreenidhi Institute of Scie
 | [**Portfolio Builder**](https://github.com/KothintiTharun035/Portfolio-Builder) | Full-stack application for creating and publishing customizable portfolio websites. | MongoDB · Express.js · React · Node.js |
 | [**Employee Management System**](https://github.com/KothintiTharun035/employee-management-system) | Employee management application with authentication, employee records, and administrative functionality. | Java · Spring Boot · React · MySQL |
 | [**SiteWell — Website Performance Analyzer**](https://github.com/KothintiTharun035/SiteWell) | Web application for analyzing website performance and identifying SEO, accessibility, and optimization opportunities. | React · Vite · Node.js · Express.js |
-
+| [**AgentFlow AI — Agentic Workflow Automation**]() · [GitHub Repository](https://github.com/KothintiTharun035/AgentFlow-AI) | Agentic AI platform that generates task plans, retrieves relevant knowledge-base documents using TF-IDF and cosine similarity, produces grounded AI answers, and orchestrates support-ticket analysis and report generation. | Python · FastAPI · React · Vite · LangGraph · Google Gemini API · RAG · Scikit-learn · Vercel · Render |
 ---
 
 ## AI & Machine Learning
